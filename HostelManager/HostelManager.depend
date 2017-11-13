@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510550060 source:g:\trainer file\c code\hostelmanager\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
